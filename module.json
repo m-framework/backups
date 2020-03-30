@@ -1,0 +1,17 @@
+{
+  "title":"Backups",
+  "name":"backups",
+  "description":"Save or restore website from backups",
+  "icon":"<i class=\"fa fa-hdd-o\"></i>",
+  "version":"1.0",
+  "date":"2018-01-011",
+  "author":"mrinmiro@gmail.com",
+  "compatible_cores":["1.0"],
+  "dashboard_menu":{
+    "":"<i class=\"fa fa-hdd-o\"></i> *Backups overview*",
+    "/add":"<i class=\"fa fa-plus\"></i> *Create a backup*"
+  },
+  "tags":["backup","restore"],
+  "price":"0",
+  "":""
+}
